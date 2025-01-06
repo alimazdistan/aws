@@ -1,0 +1,1 @@
+I've uploaded a test project on my GitHub repository. It's a project built with the Spring Boot framework, written in Java, and designed for testing AWS CodeBuild functionality. The project uses Maven for dependency management and includes a buildspec.yml file to handle the build process​
